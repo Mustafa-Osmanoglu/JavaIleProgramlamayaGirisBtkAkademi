@@ -1,0 +1,1 @@
+Java İle Programlamaya Giriş BTK Akademi kursunu çalışırken yazdığım kodlardır. Bölüm, bölüm yazmaktayım. Kodlar kurstakilere benzer ya da aynı olabilir. Pratik yapmak ve bilgimi ortaya koymak amacıyla bu repositoryleri oluşturdum.
